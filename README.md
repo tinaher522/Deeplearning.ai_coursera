@@ -1,5 +1,5 @@
 # 💋deeplearning.ai_coursera
-这个仓库用来整理吴恩达Andrew Ng在coursera上的deeplearning.ai专项课程，根据视频整理，学习过程中也会加入自己对问题的理解，以及根据看到的其他相关资料，整合改编成这套课程的学习笔记。如有错误，欢迎指正！（希望可以坚持，持续更新中）
+这个仓库用来整理吴恩达Andrew Ng在coursera上的deeplearning.ai专项课程，根据视频整理，学习过程中也会尝试加入自己对问题的理解，以及根据看到的其他相关资料，整合改编成这一套课程的学习笔记。如有错误，欢迎指正！（希望可以坚持，持续更新中）
 
 **第一门课程**：Neural Networks and Deep Learning:
 
